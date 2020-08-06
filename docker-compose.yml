@@ -1,0 +1,7 @@
+version: '3'
+services:
+  dotnet-docker-sample-api:
+    build: .
+    container_name: dotnet-docker-sample-api
+    ports:
+      - '5050:80'
