@@ -20,7 +20,7 @@ To learn about Docker see the docs in [Docker website](https://docs.docker.com/)
 1. Clone this [repository](https://github.com/bernardbr/dotnet-docker-sample.git);
 1. Make sure the docker is running in your machine. You can try run `docker --version` on your terminal;
 1. Go to the root project folder and run `docker-compose up -d`;
-1. Go to your browser and access <http://localhost:5050>;
+1. Go to your browser and access <http://localhost:5050/WeatherForecast>;
 
 ![Have fun](https://media.giphy.com/media/gHtvqib1yFvNbsjwCs/giphy.gif)
 
